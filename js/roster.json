@@ -1,0 +1,224 @@
+{"roster":{
+	"character":[
+		{
+			"name": "Alex",
+			"img": "alex.png"
+		},
+		{
+			"name": "Alisa Boskonovich",
+			"img": "alisa.png"
+		},
+		{
+			"name": "Ancient Ogre",
+			"img": "ancientogre.png"
+		},
+		{
+			"name": "Angel",
+			"img": "angel.png"
+		},
+		{
+			"name": "Anna Williams",
+			"img": "anna.png"
+		},
+		{
+			"name": "Armor King",
+			"img": "armorking.png"
+		},
+		{
+			"name": "Asuka Kazama",
+			"img": "asuka.png"
+		},
+		{
+			"name": "Baek Do San",
+			"img": "baek.png"
+		},
+		{
+			"name": "Bob Richards",
+			"img": "bob.png"
+		},
+		{
+			"name": "Bruce Irvin",
+			"img": "bruce.png"
+		},
+		{
+			"name": "Bryan Fury",
+			"img": "bryan.png"
+		},
+		{
+			"name": "Christie Monteiro",
+			"img": "christie.png"
+		},
+		{
+			"name": "Craig Marduk",
+			"img": "craig.png"
+		},
+		{
+			"name": "Devil Jin",
+			"img": "deviljin.png"
+		},
+		{
+			"name": "Sergei Dragunov",
+			"img": "dragunov.png"
+		},
+		{
+			"name": "Eddy Gordo",
+			"img": "eddy.png"
+		},
+		{
+			"name": "Feng Wei",
+			"img": "feng.png"	
+		},
+		{
+			"name": "Forest Law",
+			"img": "forest.png"	
+		},
+		{
+			"name": "Ganryu",
+			"img": "ganryu.png"	
+		},
+		{
+			"name": "Heihachi Mishima",
+			"img": "heihachi.png"	
+		},
+		{
+			"name": "Hwoarang",
+			"img": "hwoarang.png"	
+		},
+		{
+			"name": "Jack 6",
+			"img": "jack6.png"	
+		},
+		{
+			"name": "Jaycee",
+			"img": "jaycee.png"	
+		},
+		{
+			"name": "Jin Kazama",
+			"img": "jin.png"	
+		},
+		{
+			"name": "Jinpachi Mishima",
+			"img": "jinpachi.png"	
+		},
+		{
+			"name": "Jun Kazama",
+			"img": "jun.png"	
+		},
+		{
+			"name": "Kazuya Mishima",
+			"img": "kazuya.png"	
+		},
+		{
+			"name": "King",
+			"img": "king.png"	
+		},
+		{
+			"name": "Kuma",
+			"img": "kuma.png"
+		},
+		{
+			"name": "Kunimitsu",
+			"img": "kunimitsu.png"	
+		},
+		{
+			"name": "Lars Alexanderson",
+			"img": "lars.png"	
+		},
+		{
+			"name": "Lee Chaolan",
+			"img": "lee.png"
+		},
+		{			
+			"name": "Lei Wulong",
+			"img": "lei.png"				
+		},
+		{
+			"name": "Leo Kleisen",
+			"img": "leo.png"	
+		},
+		{
+			"name": "Lili de Rochefort",
+			"img": "lili.png"
+		},
+		{
+			"name": "Ling Xiaoyu",
+			"img": "ling.png"		
+		},
+		{
+			"name": "Marshall Law",
+			"img": "marshall.png"
+		},
+		{
+			"name": "Michelle Chang",
+			"img": "michelle.png"
+		},
+		{
+			"name": "Miguel Caballero Rojo",
+			"img": "miguel.png"
+		},
+		{
+			"name": "Miharu Hirano",
+			"img": "miharu.png"
+		},
+		{
+			"name": "Nina Williams",
+			"img": "nina.png"
+		},
+		{
+			"name": "Ogre",
+			"img": "ogre.png"
+		},
+		{
+			"name": "Panda",
+			"img": "panda.png"
+		},
+		{
+			"name": "Paul Pheonix",
+			"img": "paul.png"
+		},
+		{
+			"name": "Raven",
+			"img": "raven.png"
+		},
+		{
+			"name": "Roger",
+			"img": "roger.png"
+		},
+		{
+			"name": "Sebastian",
+			"img": "sebastian.png"
+		},
+		{
+			"name": "Slim Bob",
+			"img": "slimbob.png"
+		},
+		{
+			"name": "Steve Fox",
+			"img": "steve.png"
+		},
+		{
+			"name": "Tiger Jackson",
+			"img": "tiger.png"
+		},
+		{
+			"name": "Unknown",
+			"img": "unknown.png"
+		},
+		{
+			"name": "Violet",
+			"img": "violet.png"
+		},
+		{
+			"name": "Wang Jinrei",
+			"img": "wang.png"
+		},
+		{
+			"name": "Yoshimitsu",
+			"img": "yoshimitsu.png"
+		},
+		{
+			"name": "Zafina",
+			"img": "zafina.png"
+		}
+	]}
+}

@@ -1,0 +1,29 @@
+<html ng-app="CharacterComparison">
+<head>
+	<title>Tekken Tier Calculator</title>
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/roster.css">
+</head>
+<body>
+	<div ng-controller="Roster">
+		<div ng-hide="selectedItem.name == null" class="roster-displayContainer">
+			<div class="roster-characterInfo">
+				<h2 class="fade">{{selectedItem.name}}</h2>
+			</div>
+			<div class="roster-full">
+				<img ng-src="{{full + selectedItem.img}}">
+			</div>
+		</div>
+		<div class="roster-container">
+			<div ng-repeat="character in roster">
+				<img ng-click="select(character)" class="roster-thumbnail" ng-src="{{thumb + character.img}}"/>
+			</div>
+		</div>
+	</div>
+</body>
+
+<script type="text/javascript" src="js/angular.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular-animate.min.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+</html>

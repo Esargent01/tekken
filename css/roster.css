@@ -1,0 +1,42 @@
+.roster {
+	margin: 0 auto;
+}
+
+.roster-container {
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.roster-displayContainer {
+	padding: 0 85px;
+	display: flex;
+}
+
+.roster-thumbnail {
+    height: 140px;
+    cursor: pointer;
+}
+
+.roster-characterInfo {
+	width: 50%;
+	font-size: 24px;
+}
+
+.roster-full {
+
+}
+
+.roster-full img {
+    height: 75%;
+}
+
+.selected {
+    background: rgba(0,0,0,0.5);
+}
+
+.fade.ng-enter {
+  transition:0.5s linear all;
+  opacity:0;
+}
